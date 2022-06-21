@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZolkMyth and I'm 15 
-- 👀 I’m interested in web development and software engineering in general
+- 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
